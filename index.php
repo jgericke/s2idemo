@@ -5,6 +5,6 @@
    <title>LSD Demo: OpenShift S2I</title>
   </head>
  <body>
-   <?php print "Hello ". $_SERVER['HTTP_CLIENT_IP'] . " from " . gethostname(); ?>
+   <?php print "Hello world from " . gethostname(); ?>
  </body>
  </html>
