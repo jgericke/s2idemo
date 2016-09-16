@@ -5,6 +5,6 @@
    <title>LSD Demo: OpenShift S2I</title>
   </head>
  <body>
-   <?php print "Hello world from " . gethostname(); ?>
+   <?php print "Hello Helios from " . gethostname(); ?>
  </body>
  </html>
